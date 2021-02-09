@@ -11,14 +11,14 @@
         android:id="@+id/etDescription"
         android:layout_width="match_parent"
         android:layout_height="52dp"
-        android:text="TextView" />
+        android:hint="Description" />
 
     <Button
         android:id="@+id/btnCaptureImage"
         android:layout_width="426dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="0dp"
-        android:text="Image" />
+        android:text="Snap Photo" />
 
     <ImageView
         android:id="@+id/ivPostImage"
