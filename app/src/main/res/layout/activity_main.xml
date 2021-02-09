@@ -10,12 +10,12 @@
     <EditText
         android:id="@+id/etDescription"
         android:layout_width="match_parent"
-        android:layout_height="52dp"
-        android:hint="Description" />
+        android:layout_height="wrap_content"
+        android:hint="Add a description" />
 
     <Button
         android:id="@+id/btnCaptureImage"
-        android:layout_width="426dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="0dp"
         android:text="Snap Photo" />
@@ -23,7 +23,7 @@
     <ImageView
         android:id="@+id/ivPostImage"
         android:layout_width="match_parent"
-        android:layout_height="178dp" />
+        android:layout_height="587dp" />
 
     <Button
         android:id="@+id/btnSubmit"
