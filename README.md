@@ -94,7 +94,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./demoInstaClone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./demoInstaClone_old.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
